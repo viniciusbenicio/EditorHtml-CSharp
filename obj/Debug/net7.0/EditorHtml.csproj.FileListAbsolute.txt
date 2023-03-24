@@ -1,0 +1,15 @@
+D:\Cursos\Projetos\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+D:\Cursos\Projetos\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+D:\Cursos\Projetos\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+D:\Cursos\Projetos\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+D:\Cursos\Projetos\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+D:\Cursos\Projetos\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
